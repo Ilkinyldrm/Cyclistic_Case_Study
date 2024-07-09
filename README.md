@@ -35,23 +35,30 @@ I aggregated, organized, and formatted the data, performed necessary calculation
 ## Share
 Using Tableau, I crafted impactful data visualizations that illustrate key insights into the distinct usage patterns of annual members and casual riders within Cyclistic's bike-share program, facilitating clear communication of the findings.
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Monthly%20Total%20Rides.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Monthly%20Average%20Ride%20Length.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Weekly%20Total%20Rides.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Weekly%20Ride%20Length.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Bike%20Types%20Pie%20Chart.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Bike%20Type%20for%20member_casual.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Ride%20Length%20Minutes%20by%20Bike%20Type.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Start%20Station%20Rides.png)
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/End%20Station%20Rides%20.png)
 ## Act
 ### Conclusion
-In conclusion, the analysis of the data reveals interesting insights about the bike usage patterns. Electric bikes emerge as the most popular bike type, with regular bikes following closely behind. Casual riders tend to have longer rides on average compared to annual members. Moreover, annual members demonstrate higher ride frequencies on weekdays, while casual riders display higher ride frequencies on weekends. There is a consistent trend of higher ride counts during the warmer months, with August being the peak month for annual members and July for casual riders. Additionally, both groups exhibit peak ridership between 4 pm and 6 pm, with 5 pm recording the highest number of rides. These findings suggest a shared preference for biking during the late afternoon among both annual members and casual riders.
+The analysis highlights distinct differences in the behavior and preferences of casual riders and annual members. Members use Cyclistic bikes primarily for commuting, showing consistent patterns in start and end stations, bike types, and weekday usage. Casual riders, on the other hand, demonstrate a preference for recreational use, favoring weekends, tourist areas, and classic bikes.
 ### Recommendations
-To convert casual riders into annual members, here are my recommendations:
-1. Offer Trial Memberships: Provide short-term trial memberships at a discounted rate or with additional perks to allow casual riders to experience the benefits of being an annual member.
-2. Improve User Experience: Continuously enhance the user experience for annual members, ensuring that they have a seamless and enjoyable riding experience. This includes convenient booking processes, reliable bikes, and excellent customer support.
-3. Target Seasonal Riders: Identify casual riders who use the service frequently during peak seasons and offer targeted promotions or discounted rates to encourage them to become annual members.
-4. Incentivize Long-Term Commitment: Create incentives for long-term commitment, such as offering discounted rates for multi-year memberships or rewarding loyal members with exclusive rewards and privileges.
-5. Gather Feedback and Adapt: Continuously seek feedback from casual riders who have become annual members to understand their needs and preferences better. Adapt membership offerings and benefits accordingly to improve the conversion rate and retention of casual riders as annual members.
+1. Offer incentives and promotions to convert casual riders into annual members by highlighting the benefits of regular usage and cost savings.
+2. Improve bike availability and maintenance at high-traffic start and end stations, especially weekday for members and weekends for casual riders.
+3. Implement seasonal marketing campaigns and promotions to maximize ridership during summer and maintain engagement during winter.
+4. Offer trial periods and discounts to encourage casual riders to experience the benefits of electric bikes.
+5. Create engaging content (videos, blog posts) showcasing the advantages of electric bikes, such as ease of use, speed, and environmental benefits.
 
-By implementing these recommendations, it is possible to attract more casual riders and successfully convert them into loyal annual members, ultimately growing the customer base and promoting long-term engagement with the bike-sharing service.
+By implementing these detailed recommendations, Cyclistic can effectively enhance the rider experience, increase overall ridership, and drive sustainable growth.
