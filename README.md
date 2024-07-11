@@ -36,21 +36,33 @@ I aggregated, organized, and formatted the data, performed necessary calculation
 Using Tableau, I crafted impactful data visualizations that illustrate key insights into the distinct usage patterns of annual members and casual riders within Cyclistic's bike-share program, facilitating clear communication of the findings.
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Monthly%20Total%20Rides.png)
 
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Monthly%20Average%20Ride%20Length.png)
+
 
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Weekly%20Total%20Rides.png)
 
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Weekly%20Ride%20Length.png)
+
+
+![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Total%20Rides%20Of%20Members%20And%20Casual%20Riders%20by%20The%20Hour%20Of%20The%20day..png)
+
 
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Bike%20Types%20Pie%20Chart.png)
 
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Bike%20Type%20for%20member_casual.png)
+
 
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Ride%20Length%20Minutes%20by%20Bike%20Type.png)
 
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/Start%20Station%20Rides.png)
 
+
 ![data visualisation](https://github.com/Ilkinyldrm/Cyclistic_Case_Study/blob/main/Tableau%20images/End%20Station%20Rides%20.png)
+
 ## Act
 ### Conclusion
 The analysis highlights distinct differences in the behavior and preferences of casual riders and annual members. Members use Cyclistic bikes primarily for commuting, showing consistent patterns in start and end stations, bike types, and weekday usage. Casual riders, on the other hand, demonstrate a preference for recreational use, favoring weekends, tourist areas, and classic bikes.
